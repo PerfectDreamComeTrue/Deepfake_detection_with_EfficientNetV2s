@@ -4,7 +4,7 @@
 
 ![Image description](.figure/models.png)
 
-- **제가 선정한 모델 후보는** **합성곱 신경망을 사용하는 CNN, Transeformer를 사용한 Swin Transformer,와 ViT(Vistion Transformer).**
+- **모델 후보:** **합성곱 신경망을 사용하는 CNN, Transeformer를 사용한 Swin Transformer,와 ViT(Vistion Transformer).**
 
 ## 모델 선정 - 한정된 자원으로 최대의 효율을 내는 모델
 
